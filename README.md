@@ -1,18 +1,9 @@
-:
-
-🚨 Crowd Detection & Alert System
-
-
-
-
-
-
-
+##🚨 Crowd Detection & Alert System
 
 A real-time crowd detection and monitoring system powered by YOLO + OpenCV.
 The project identifies people in a video stream and triggers an alert when a crowd forms (3+ people across 5+ consecutive frames). Alerts are logged in both .json and .txt formats and visualized on a timeline for analysis.
 
-✨ Features
+##✨ Features
 
 🎥 Real-time video processing (file or stream input)
 

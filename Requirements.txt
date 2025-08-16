@@ -1,0 +1,10 @@
+opencv-python
+os
+torch
+torchvision
+ultralytics
+matplotlib
+numpy
+pandas
+opencv-python-headless
+opencv

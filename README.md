@@ -25,19 +25,21 @@ The project identifies people in a video stream and triggers an **alert when a c
 ## 📂 Project Structure  
 
 \`\`\`
-├── 1.ipynb                # Main detection notebook
 
-├── 2.ipynb                # Alternative/extended analysis notebook
+├──> 1.ipynb                # Main detection notebook
 
-├── alert_log.json         # JSON formatted alerts
+├──> 2.ipynb                # Alternative/extended analysis notebook
 
-├── alert_log.txt          # Text formatted alerts
+├──> alert_log.json         # JSON formatted alerts
 
-├── output_frames/         # Saved annotated frames
+├──> alert_log.txt          # Text formatted alerts
 
-├── output_video.mp4       # Annotated processed video
+├──> output_frames/         # Saved annotated frames
 
-└── README.md              # Project documentation
+├──> output_video.mp4       # Annotated processed video
+
+└──> README.md              # Project documentation
+
 \`\`\`
 
 ---

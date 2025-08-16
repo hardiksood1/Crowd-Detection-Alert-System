@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🚨 Crowd Detection & Alert System  
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)  

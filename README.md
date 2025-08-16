@@ -26,11 +26,17 @@ The project identifies people in a video stream and triggers an **alert when a c
 
 \`\`\`
 ├── 1.ipynb                # Main detection notebook
+
 ├── 2.ipynb                # Alternative/extended analysis notebook
+
 ├── alert_log.json         # JSON formatted alerts
+
 ├── alert_log.txt          # Text formatted alerts
+
 ├── output_frames/         # Saved annotated frames
+
 ├── output_video.mp4       # Annotated processed video
+
 └── README.md              # Project documentation
 \`\`\`
 
